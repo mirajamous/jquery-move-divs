@@ -13,7 +13,8 @@ Buttons allow you to move the child boxes from left → right and right → left
 - When you click **"Move to right"**, the last child of the left box moves to the right.
 - When you click **"Move to left"**, the last child of the right box moves back to the left.
 - If there are no more boxes to move, an alert is shown.
---
+
+
 ![preview image](./images/preview1.png)
 ![preview image](./images/preview2.png)
 ![preview image](./images/preview3.png)
